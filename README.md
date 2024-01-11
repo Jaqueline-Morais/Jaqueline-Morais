@@ -1,5 +1,5 @@
 # Jaqueline Morais
-Formada em Pedagogia, atuei na área da Educação por 10 anos. Me apaixonei recentemente pela área de Cibersegurança e desde então venho adquirindo conhecimentos na área de Programação, Cibersegurança e Segurança da Informação para uma futura transiçaõ de carreira. Participei do Programa Desenvolve 2023, estudando Segurança da Informação. Ainda sou iniciante na área de tecnologia, mas estou adorando cada aprendizado.
+Formada em Pedagogia, atuei na área da Educação por 10 anos. Me apaixonei recentemente pela área de Cibersegurança e desde então venho adquirindo conhecimentos na área de Programação, Cibersegurança e Segurança da Informação para uma futura transição de carreira. Participei do Programa Desenvolve 2023, estudando Segurança da Informação. Ainda sou iniciante na área de tecnologia, mas estou adorando cada aprendizado.
 
 
 ## Conecte-se comigo
